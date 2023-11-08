@@ -1,8 +1,8 @@
 const fetch = require('node-fetch');
 const crypto = require('crypto');
 
-const API_KEY = '4UqhisJhjd4lncBuKYOZ4Bpzh74HlL2lKGApOCXQm5z';
-const API_SECRET = 'e5FymUGwHh7nbEJTlzBgtaKioEXRvzsamMPtdK80xbR';
+const API_KEY = '1';
+const API_SECRET = '2';
 
 const baseUrl = 'https://api.bitfinex.com';
 const path = '/v2/auth/r/wallets';
